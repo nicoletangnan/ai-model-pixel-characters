@@ -1,0 +1,194 @@
+{
+  "status": "local-review-not-uploaded",
+  "intended_initial_visibility": "private",
+  "license": "Non-commercial study and learning only; third-party terms also apply",
+  "characters": [
+    "sam",
+    "dario",
+    "liangzi",
+    "doubao",
+    "nicole"
+  ],
+  "files": [
+    {
+      "character": "sam",
+      "kind": "portrait",
+      "file": "characters/sam/sam-portrait.png",
+      "width": 66,
+      "height": 66,
+      "sha256": "d0003ffa3f829dc4e86794c917ca677aa1ad41e3093769dde90ed74be93b6dd7",
+      "bytes": 1771
+    },
+    {
+      "character": "sam",
+      "kind": "stand",
+      "file": "characters/sam/sam-stand.png",
+      "width": 160,
+      "height": 40,
+      "sha256": "8f74d965ef22320aaa53f2ea907e3335079d32699889534f3efb24126f292814",
+      "bytes": 1855
+    },
+    {
+      "character": "sam",
+      "kind": "walk-sheet",
+      "file": "characters/sam/sam-walk-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "4fd8c48a785cbb67b1468821a158230c2a66bc9c5c939790f9bd266a394942b9",
+      "bytes": 6655
+    },
+    {
+      "character": "sam",
+      "kind": "run-sheet",
+      "file": "characters/sam/sam-run-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "7ff69b358c1b52ebeeb593f31bebfe38fb51b66d97015c46e9274e0097bde4e5",
+      "bytes": 6896
+    },
+    {
+      "character": "dario",
+      "kind": "portrait",
+      "file": "characters/dario/dario-portrait.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6c1e44401ed6bd229b380b4aa8b04e205bcf7e057d9dc2ad9d1e6c6c53ed3df1",
+      "bytes": 665588
+    },
+    {
+      "character": "dario",
+      "kind": "stand",
+      "file": "characters/dario/dario-stand.png",
+      "width": 160,
+      "height": 40,
+      "sha256": "e9e22446ba0b5ae10519b18e4c6fafefbc4666a9aa0169c4b9d233e92a69f366",
+      "bytes": 1900
+    },
+    {
+      "character": "dario",
+      "kind": "walk-sheet",
+      "file": "characters/dario/dario-walk-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "b52b82fe908da0f9b5c7f1cf127dfe40cb434d4e2877e70de4494cdde44dd4fa",
+      "bytes": 6759
+    },
+    {
+      "character": "dario",
+      "kind": "run-sheet",
+      "file": "characters/dario/dario-run-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "1f7ab93b63b8617805f18716976da21867fbea6df2b6c02541df9df855dabd2c",
+      "bytes": 7220
+    },
+    {
+      "character": "liangzi",
+      "kind": "portrait",
+      "file": "characters/liangzi/liangzi-portrait.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2c8a7f6d1fb572a5281c3b6879493a26d19000d83a1df6adea562db1b8830889",
+      "bytes": 686567
+    },
+    {
+      "character": "liangzi",
+      "kind": "stand",
+      "file": "characters/liangzi/liangzi-stand.png",
+      "width": 160,
+      "height": 40,
+      "sha256": "f591c38422d716f86753fa0d2e74a4cdb37cff452a388e61b46dcbf80aaafb55",
+      "bytes": 1792
+    },
+    {
+      "character": "liangzi",
+      "kind": "walk-sheet",
+      "file": "characters/liangzi/liangzi-walk-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "b31f3d0ca997ef426ad02907b8b7affd6e137ec632559761c5bb52a3094a87b5",
+      "bytes": 6687
+    },
+    {
+      "character": "liangzi",
+      "kind": "run-sheet",
+      "file": "characters/liangzi/liangzi-run-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "d616245776521e3a6dd9f11e7a405f193d8252d14781348a94c49bf182d06b86",
+      "bytes": 7182
+    },
+    {
+      "character": "doubao",
+      "kind": "portrait",
+      "file": "characters/doubao/doubao-portrait.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "e5eb9dc01c6b2e892d6bc2268fab6ae55b0d9446a5b8a8a481218fd2771e94ca",
+      "bytes": 689556
+    },
+    {
+      "character": "doubao",
+      "kind": "stand",
+      "file": "characters/doubao/doubao-stand.png",
+      "width": 160,
+      "height": 40,
+      "sha256": "6cece5ab50ef4d61699d7061d2b168133e842a24659abc22ad2a664d0cb659bc",
+      "bytes": 1998
+    },
+    {
+      "character": "doubao",
+      "kind": "walk-sheet",
+      "file": "characters/doubao/doubao-walk-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "4b63bec01b7a39847456dd1d1f5788a595db3f6d461b480197658e37dfc0b65e",
+      "bytes": 7288
+    },
+    {
+      "character": "doubao",
+      "kind": "run-sheet",
+      "file": "characters/doubao/doubao-run-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "1d4b6cde687883d8badee5c61ce77eeaa9d2e1f889898f2eae1b2d864122b739",
+      "bytes": 7744
+    },
+    {
+      "character": "nicole",
+      "kind": "portrait",
+      "file": "characters/nicole/nicole-portrait.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "02820663f0b88f6a97d853a56a424fffe30a17efe8097a8f443c22feae865583",
+      "bytes": 791003
+    },
+    {
+      "character": "nicole",
+      "kind": "stand",
+      "file": "characters/nicole/nicole-stand.png",
+      "width": 160,
+      "height": 40,
+      "sha256": "5063199fb1cf30490e7e168365ad949c69faffda5f15136edf8ca4132e8f3bbb",
+      "bytes": 2597
+    },
+    {
+      "character": "nicole",
+      "kind": "walk-sheet",
+      "file": "characters/nicole/nicole-walk-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "549982b9385f03e837d9f80aef5d9244366454c2effd55de56d498e109f84cf4",
+      "bytes": 8821
+    },
+    {
+      "character": "nicole",
+      "kind": "run-sheet",
+      "file": "characters/nicole/nicole-run-sheet.png",
+      "width": 240,
+      "height": 160,
+      "sha256": "91e4556173726e5d2bbd5b9c4b3954ee77a7a4210657c197afb5673f64347c7c",
+      "bytes": 8066
+    }
+  ]
+}
