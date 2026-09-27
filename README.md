@@ -8,7 +8,7 @@ Pixel portraits and four-direction character sprites for Sam, Dario, Liangzi, Do
 
 | Character | Portrait | Four-direction walk |
 | --- | --- | --- |
-| Sam | <img src="characters/sam/sam-portrait.png" alt="Sam portrait" width="220"> | ![Sam walking in four directions](previews/sam-walk.gif) |
+| Sam | <img src="previews/sam-portrait.png" alt="Sam portrait" width="220"> | ![Sam walking in four directions](previews/sam-walk.gif) |
 | Dario | <img src="characters/dario/dario-portrait.png" alt="Dario portrait" width="220"> | ![Dario walking in four directions](previews/dario-walk.gif) |
 | Liangzi | <img src="characters/liangzi/liangzi-portrait.png" alt="Liangzi portrait" width="220"> | ![Liangzi walking in four directions](previews/liangzi-walk.gif) |
 | Doubao | <img src="characters/doubao/doubao-portrait.png" alt="Doubao portrait" width="220"> | ![Doubao walking in four directions](previews/doubao-walk.gif) |
